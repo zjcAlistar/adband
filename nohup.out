@@ -1,0 +1,185 @@
+[05/Nov/2015 08:38:30]"POST /wrist/callback?signature=7be8bfa1c59cd5f91fac6800e3b6e9bb642e3af7&timestamp=1446712710&nonce=1653507796 HTTP/1.0" 404 2044
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2015 - 08:36:54
+Django version 1.8.2, using settings 'adband.settings'
+Starting development server at http://127.0.0.1:20213/
+Quit the server with CONTROL-C.
+[05/Nov/2015 08:43:30]"POST /wrist/callback?signature=1205605e54fd955478f219023e9c75ae87a899e8&timestamp=1446713010&nonce=1607029644 HTTP/1.0" 404 2044
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2015 - 08:42:43
+Django version 1.8.2, using settings 'adband.settings'
+Starting development server at http://127.0.0.1:20213/
+Quit the server with CONTROL-C.
+[05/Nov/2015 08:48:31]"POST /wrist/callback?signature=5b5b99d883fba7e603c79c24d5641f231a9ff240&timestamp=1446713310&nonce=562087992 HTTP/1.0" 500 93442
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2015 - 08:44:26
+Django version 1.8.2, using settings 'adband.settings'
+Starting development server at http://127.0.0.1:20213/
+Quit the server with CONTROL-C.
+[05/Nov/2015 08:53:30]"POST /wrist/callback?signature=951889e2f455cf5b4b72b1fb0b35f9be5d68b631&timestamp=1446713610&nonce=2009701421 HTTP/1.0" 500 93973
+[05/Nov/2015 08:58:32]"POST /wrist/callback?signature=22ccfbddf91f7e865d2a44ec15437fead6857506&timestamp=1446713910&nonce=546653232 HTTP/1.0" 500 92243
+[05/Nov/2015 09:03:31]"POST /wrist/callback?signature=b11a34388c193b735d6c11f5952a676246f82691&timestamp=1446714210&nonce=706868794 HTTP/1.0" 500 92894
+[05/Nov/2015 09:03:34]"POST /wrist/callback?signature=2225e269d2c06b94ecdbf6cc14da096728b2d71b&timestamp=1446714214&nonce=950528204 HTTP/1.0" 500 93980
+[05/Nov/2015 09:03:34]"POST /wrist/callback?signature=74375d0c79331c3b05466864cf1e9bbca1ab1305&timestamp=1446714214&nonce=421827652 HTTP/1.0" 500 93959
+[05/Nov/2015 09:03:42]"POST /wrist/callback?signature=b921b3e78f0fcc1b03c73a9bfe3173456ab6ccb9&timestamp=1446714222&nonce=586002461 HTTP/1.0" 500 93336
+[05/Nov/2015 09:03:42]"POST /wrist/callback?signature=139c885a1e62faf345e65fc2786f6fa1b2fbe2d0&timestamp=1446714222&nonce=1735287009 HTTP/1.0" 500 93294
+[05/Nov/2015 09:05:08]"POST /wrist/callback?signature=a4cedb6780b7b0414ff52ecd2bbd3d0dd44295b7&timestamp=1446714307&nonce=1640035045 HTTP/1.0" 500 93350
+[05/Nov/2015 09:05:08]"POST /wrist/callback?signature=8c2c46eb82f4479c3e0e2b87e907548e9ff898cb&timestamp=1446714308&nonce=329902625 HTTP/1.0" 500 93105
+[05/Nov/2015 09:08:11]"POST /wrist/callback?signature=18572dfd4024ed3a0ed964a9d1d05db5532c42a5&timestamp=1446714490&nonce=734831852 HTTP/1.0" 500 93286
+[05/Nov/2015 09:08:11]"POST /wrist/callback?signature=4faae4c98e034683d6810d8896e973af6c856f50&timestamp=1446714491&nonce=484903556 HTTP/1.0" 500 93308
+[05/Nov/2015 09:08:30]"POST /wrist/callback?signature=b7de71dd82a147b636a38583ca7369f3c36cb593&timestamp=1446714510&nonce=1885382479 HTTP/1.0" 500 93511
+[05/Nov/2015 09:08:55]"POST /wrist/callback?signature=5baae76ae1bc7ad1819ba4e388d55ec6948dcd44&timestamp=1446714535&nonce=422642379 HTTP/1.0" 500 93497
+[05/Nov/2015 09:08:55]"POST /wrist/callback?signature=cc173a9235ededc177e75c7509b45a3a40e7fdc1&timestamp=1446714535&nonce=223869446 HTTP/1.0" 500 93503
+[05/Nov/2015 09:10:33]"POST /wrist/callback?signature=1880b3fcd1275e816b19ec101c14a1cf89a204ee&timestamp=1446714632&nonce=1439673560 HTTP/1.0" 500 93322
+[05/Nov/2015 09:10:33]"POST /wrist/callback?signature=0ee83d379ae0e4ea5a174dd8174812a06b5c1c10&timestamp=1446714633&nonce=1511085839 HTTP/1.0" 500 92938
+[05/Nov/2015 09:13:31]"POST /wrist/callback?signature=70023c01e9237cbe2b4eb3fe2fac0c582f6f9650&timestamp=1446714810&nonce=1565192169 HTTP/1.0" 500 92482
+[05/Nov/2015 09:18:30]"POST /wrist/callback?signature=258a717ca311617dc3633527daf8f9920f8e079a&timestamp=1446715110&nonce=1291429155 HTTP/1.0" 500 92482
+[05/Nov/2015 09:19:48]"POST /wrist/callback?signature=de00d38d692d3c494c4daf6dfe0d55af2f0f290b&timestamp=1446715188&nonce=1190734522 HTTP/1.0" 500 92671
+[05/Nov/2015 09:19:48]"POST /wrist/callback?signature=8c912ae7a4b1e53f07dc5d640241dbe50118d4f7&timestamp=1446715188&nonce=805130370 HTTP/1.0" 500 93119
+[05/Nov/2015 09:19:51]"POST /wrist/callback?signature=2e658ed77775b4c646f8ddfe1d8d1d9babb7ae53&timestamp=1446715191&nonce=120407216 HTTP/1.0" 500 93503
+[05/Nov/2015 09:23:31]"POST /wrist/callback?signature=16b094a767fc88c86d63635b3b6caf974076e78a&timestamp=1446715410&nonce=1304350802 HTTP/1.0" 500 93133
+[05/Nov/2015 09:28:31]"POST /wrist/callback?signature=27d2638bc5fa270a76a8617077cfb323f27865a6&timestamp=1446715710&nonce=1051374096 HTTP/1.0" 500 93133
+[05/Nov/2015 09:33:31]"POST /wrist/callback?signature=55a77547120de8013b3aa496f75610a8ba01fb9a&timestamp=1446716010&nonce=889769375 HTTP/1.0" 500 93503
+[05/Nov/2015 09:38:34]"POST /wrist/callback?signature=fae87636af04e6603bed40bd5dd1f791389648f7&timestamp=1446716310&nonce=97135411 HTTP/1.0" 500 93726
+[05/Nov/2015 09:43:31]"POST /wrist/callback?signature=ee02bb53900e839b0581f8642a1b16599a1f3873&timestamp=1446716611&nonce=349037527 HTTP/1.0" 500 93965
+[05/Nov/2015 09:48:32]"POST /wrist/callback?signature=51e7d3b2f222ecf302c671439b3f4dd64b2a2f16&timestamp=1446716911&nonce=790647690 HTTP/1.0" 500 93734
+[05/Nov/2015 09:51:46]"POST /wrist/callback?signature=22c8146a872e74bf6b9ae1a7845446b86fb37967&timestamp=1446717106&nonce=495089067 HTTP/1.0" 500 93728
+[05/Nov/2015 09:51:50]"POST /wrist/callback?signature=24adffc1fc8de4f0d328ae5a326c55a49b720271&timestamp=1446717110&nonce=832461451 HTTP/1.0" 500 93734
+[05/Nov/2015 10:02:10]"GET / HTTP/1.0" 500 76304
+[05/Nov/2015 10:07:37]"GET /testproxy.php HTTP/1.0" 500 93464
+[05/Nov/2015 17:20:14]"GET / HTTP/1.0" 500 75733
+[05/Nov/2015 18:00:03]"GET / HTTP/1.0" 500 75852
+[05/Nov/2015 19:14:08]"GET / HTTP/1.0" 500 75067
+[05/Nov/2015 19:14:09]"GET /robots.txt HTTP/1.0" 500 91231
+[05/Nov/2015 20:35:55]"GET /robots.txt HTTP/1.0" 500 92155
+[05/Nov/2015 23:13:07]"GET /robots.txt HTTP/1.0" 500 92553
+[05/Nov/2015 23:13:13]"GET /images/self.jpg HTTP/1.0" 500 93097
+[05/Nov/2015 23:18:15]"GET /testproxy.php HTTP/1.0" 500 92870
+[05/Nov/2015 23:25:58]"GET /robots.txt HTTP/1.0" 500 92931
+[05/Nov/2015 23:34:22]"GET /images/school.jpg HTTP/1.0" 500 92711
+[06/Nov/2015 01:22:38]"GET /search?q=wp.pl&num=100&start=100 HTTP/1.0" 500 92488
+[06/Nov/2015 02:00:01]"GET / HTTP/1.0" 500 75691
+[06/Nov/2015 03:05:03]"GET / HTTP/1.0" 500 75306
+[06/Nov/2015 03:05:03]"GET /robots.txt HTTP/1.0" 500 91389
+[06/Nov/2015 03:05:03]"GET /sitemap.xml HTTP/1.0" 500 91623
+[06/Nov/2015 03:38:06]"GET / HTTP/1.0" 500 76390
+[06/Nov/2015 03:42:19]"GET / HTTP/1.0" 500 76534
+[06/Nov/2015 04:15:21]"GET / HTTP/1.0" 500 76542
+[06/Nov/2015 04:38:02]"GET /httptest.php HTTP/1.0" 500 92402
+[06/Nov/2015 06:25:17]"GET /testproxy.php HTTP/1.0" 500 93473
+[06/Nov/2015 07:52:22]"GET /xmlrpc.php HTTP/1.0" 500 92492
+[06/Nov/2015 07:52:52]"GET /xmlrpc.php HTTP/1.0" 500 92492
+[06/Nov/2015 08:10:57]"GET / HTTP/1.0" 500 77080
+[06/Nov/2015 08:22:48]"GET /robots.txt HTTP/1.0" 500 93037
+[06/Nov/2015 09:59:51]"GET / HTTP/1.0" 500 76314
+[06/Nov/2015 11:02:25]"GET /httptest.php HTTP/1.0" 500 92548
+[06/Nov/2015 11:02:38]"GET /search?q=wp.pl&num=100&start=100 HTTP/1.0" 500 91864
+[06/Nov/2015 12:31:20]"GET /testproxy.php HTTP/1.0" 500 92652
+[06/Nov/2015 13:28:41]"GET / HTTP/1.0" 500 75949
+[06/Nov/2015 13:28:58]"GET /favicon.ico HTTP/1.0" 500 92890
+[06/Nov/2015 15:32:20]"GET / HTTP/1.0" 500 75110
+[06/Nov/2015 16:26:43]"GET / HTTP/1.0" 500 75271
+[06/Nov/2015 16:53:02]"GET / HTTP/1.0" 500 76313
+[06/Nov/2015 17:04:24]"GET /main.html HTTP/1.0" 500 93564
+[06/Nov/2015 17:04:25]"GET /favicon.ico HTTP/1.0" 500 93418
+[06/Nov/2015 17:12:22]"GET /robots.txt HTTP/1.0" 500 93393
+[06/Nov/2015 17:12:44]"GET / HTTP/1.0" 500 76410
+[06/Nov/2015 18:16:54]"GET / HTTP/1.0" 500 75625
+[06/Nov/2015 18:30:39]"GET / HTTP/1.0" 500 76082
+[06/Nov/2015 21:00:22]"GET /testproxy.php HTTP/1.0" 500 93479
+[06/Nov/2015 22:16:05]"GET /images/email.jpg HTTP/1.0" 500 93303
+[07/Nov/2015 01:49:33]"GET /robots.txt HTTP/1.0" 500 93022
+[07/Nov/2015 01:49:33]"GET / HTTP/1.0" 500 76940
+[07/Nov/2015 02:16:51]"GET / HTTP/1.0" 500 76314
+[07/Nov/2015 03:20:20]"GET /testproxy.php HTTP/1.0" 500 93479
+[07/Nov/2015 04:54:10]"GET /robots.txt HTTP/1.0" 500 92344
+[07/Nov/2015 04:54:10]"GET /item/2.html HTTP/1.0" 500 92952
+[07/Nov/2015 06:09:51]"GET /CFIDE/administrator/ HTTP/1.0" 500 75949
+[07/Nov/2015 06:17:34]"POST /wrist/callback?signature=6702bf8b535e032a091bae7d7fd375fba39c1661&timestamp=1446877054&nonce=1441369276 HTTP/1.0" 500 93505
+[07/Nov/2015 06:17:39]"POST /wrist/callback?signature=a5f1ae983dc0face4534a3960d33a279dca1af1c&timestamp=1446877054&nonce=1437854105 HTTP/1.0" 500 93973
+[07/Nov/2015 06:17:44]"POST /wrist/callback?signature=6b8d2c4bb4a9e1bde6ac8c18924b03bdae6fd218&timestamp=1446877064&nonce=956197808 HTTP/1.0" 500 93308
+[07/Nov/2015 06:17:44]"POST /wrist/callback?signature=7d6f64068b37caa1d9e146f6d5e1e44662382576&timestamp=1446877063&nonce=1921802768 HTTP/1.0" 500 93511
+[07/Nov/2015 06:25:07]"GET /robots.txt HTTP/1.0" 500 93378
+[07/Nov/2015 06:25:10]"GET /images/love_before.jpg HTTP/1.0" 500 92508
+[07/Nov/2015 06:27:05]"POST /wrist/callback?signature=2440c617e1351da38389d674bb8031964081d83f&timestamp=1446877624&nonce=1769093391 HTTP/1.0" 500 92643
+[07/Nov/2015 06:27:05]"POST /wrist/callback?signature=d7e173275e61e9a72c4a3b2cd81e3f942fa91196&timestamp=1446877625&nonce=707990849 HTTP/1.0" 500 93497
+[07/Nov/2015 06:27:06]"POST /wrist/callback?signature=1fadbdb2096427d4a36a41d6b508391792147927&timestamp=1446877626&nonce=1026823972 HTTP/1.0" 500 93973
+[07/Nov/2015 06:27:07]"POST /wrist/callback?signature=7c28f971f0135a563e1c57e2c221bced1ce6d9fc&timestamp=1446877627&nonce=806774910 HTTP/1.0" 500 93965
+[07/Nov/2015 06:27:10]"POST /wrist/callback?signature=86005707c96eb77ca28f5cc8722b82ea6757a8e4&timestamp=1446877629&nonce=1849413273 HTTP/1.0" 500 93973
+[07/Nov/2015 06:27:11]"POST /wrist/callback?signature=c89916ccf7ab59c0b9e44826f5efbd6730f5b0dc&timestamp=1446877631&nonce=415231855 HTTP/1.0" 500 93503
+[07/Nov/2015 08:17:23]"GET /robots.txt HTTP/1.0" 500 92343
+[07/Nov/2015 08:17:23]"GET / HTTP/1.0" 500 76247
+[07/Nov/2015 10:15:44]"GET / HTTP/1.0" 500 75866
+[07/Nov/2015 10:58:21]"GET / HTTP/1.0" 500 76431
+[07/Nov/2015 10:58:53]"GET /ncsi.txt HTTP/1.0" 500 92495
+[07/Nov/2015 10:59:17]"GET /HNAP1/ HTTP/1.0" 500 76039
+[07/Nov/2015 10:59:22]"GET /hudson/script HTTP/1.0" 500 92595
+[07/Nov/2015 10:59:23]"GET /script HTTP/1.0" 500 92245
+[07/Nov/2015 10:59:24]"GET /sqlite/main.php HTTP/1.0" 500 92860
+[07/Nov/2015 10:59:25]"GET /sqlitemanager/main.php HTTP/1.0" 500 92733
+[07/Nov/2015 10:59:26]"GET /SQLiteManager/main.php HTTP/1.0" 500 92313
+[07/Nov/2015 10:59:28]"GET /SQLite/main.php HTTP/1.0" 500 91963
+[07/Nov/2015 10:59:29]"GET /SQlite/main.php HTTP/1.0" 500 92166
+[07/Nov/2015 10:59:30]"GET /main.php HTTP/1.0" 500 91901
+[07/Nov/2015 10:59:31]"GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php HTTP/1.0" 500 92598
+[07/Nov/2015 10:59:32]"GET /SQLiteManager-1.2.4/main.php HTTP/1.0" 500 92010
+[07/Nov/2015 10:59:33]"GET /agSearch/SQlite/main.php HTTP/1.0" 500 92173
+[07/Nov/2015 12:29:09]"GET / HTTP/1.0" 500 75979
+[07/Nov/2015 13:35:29]"GET /testproxy.php HTTP/1.0" 500 92852
+[07/Nov/2015 14:07:54]"GET /robots.txt HTTP/1.0" 500 92140
+[07/Nov/2015 14:07:54]"GET /tomcat.css HTTP/1.0" 500 92131
+[07/Nov/2015 14:18:20]"GET /robots.txt HTTP/1.0" 500 92560
+[07/Nov/2015 14:18:21]"GET / HTTP/1.0" 500 76100
+[07/Nov/2015 15:35:40]"GET /robots.txt HTTP/1.0" 500 92791
+[07/Nov/2015 15:35:40]"GET / HTTP/1.0" 500 75869
+[07/Nov/2015 16:01:19]"GET / HTTP/1.0" 500 75110
+[07/Nov/2015 17:06:50]"GET /robots.txt HTTP/1.0" 500 92358
+[07/Nov/2015 17:06:50]"GET /examples/jsp/error/err.jsp?name=z3&submit=Submit HTTP/1.0" 500 93244
+[07/Nov/2015 17:20:30]"GET / HTTP/1.0" 500 75339
+[07/Nov/2015 17:29:50]"GET / HTTP/1.0" 500 75474
+[07/Nov/2015 20:15:08]"GET /robots.txt HTTP/1.0" 500 92343
+[07/Nov/2015 20:15:09]"GET / HTTP/1.0" 500 76261
+[07/Nov/2015 23:08:34]"GET /testproxy.php HTTP/1.0" 500 93262
+[08/Nov/2015 00:37:00]"GET /robots.txt HTTP/1.0" 500 92197
+[08/Nov/2015 00:37:01]"GET /examples/jsp/error/err.jsp?name=audi&submit=Submit HTTP/1.0" 500 93302
+[08/Nov/2015 01:31:31]"GET / HTTP/1.0" 500 75691
+[08/Nov/2015 02:01:57]"GET /manager/html HTTP/1.0" 500 93480
+[08/Nov/2015 02:09:37]"GET / HTTP/1.0" 500 75198
+[08/Nov/2015 02:17:10]"GET /robots.txt HTTP/1.0" 500 92560
+[08/Nov/2015 02:17:11]"GET / HTTP/1.0" 500 76779
+[08/Nov/2015 05:12:10]"GET / HTTP/1.0" 500 76650
+[08/Nov/2015 05:12:11]"GET /favicon.ico HTTP/1.0" 500 92685
+[08/Nov/2015 07:10:34]"POST /tmUnblock.cgi HTTP/1.0" 500 91280
+[08/Nov/2015 08:15:32]"POST /wrist/callback?signature=9a5e16508a1ca11cb20557c1a80c72304879ab6c&timestamp=1446970532&nonce=848968893 HTTP/1.0" 500 93353
+[08/Nov/2015 08:15:37]"POST /wrist/callback?signature=81b0583ff35a1ba52d1196a42086efcce7e00691&timestamp=1446970537&nonce=106251284 HTTP/1.0" 500 93353
+[08/Nov/2015 08:41:15]"GET /manager/html HTTP/1.0" 500 92197
+[08/Nov/2015 09:32:35]"GET / HTTP/1.0" 500 76073
+[08/Nov/2015 09:53:46]"GET /testproxy.php HTTP/1.0" 500 93473
+[08/Nov/2015 13:11:12]"GET /robots.txt HTTP/1.0" 500 92036
+[08/Nov/2015 13:11:13]"GET / HTTP/1.0" 500 76184
+[08/Nov/2015 15:39:04]"GET /search?q=wczasy&num=100&start=100 HTTP/1.0" 500 93363
+[08/Nov/2015 15:41:38]"GET /httptest.php HTTP/1.0" 500 92548
+[08/Nov/2015 17:22:46]"GET / HTTP/1.0" 500 76400
+[08/Nov/2015 17:35:27]"GET / HTTP/1.0" 500 76082
+[08/Nov/2015 18:03:04]"GET / HTTP/1.0" 500 75635
+[08/Nov/2015 18:03:06]"GET / HTTP/1.0" 500 76083
+[08/Nov/2015 18:03:07]"GET / HTTP/1.0" 500 76314
+[08/Nov/2015 19:47:14]"GET /testproxy.php HTTP/1.0" 500 93464
+[08/Nov/2015 19:47:17]"GET /testproxy.php HTTP/1.0" 500 93461
+[08/Nov/2015 21:22:00]"GET /robots.txt HTTP/1.0" 500 92861
+[08/Nov/2015 21:22:01]"GET /item/2.html HTTP/1.0" 500 93168
+[08/Nov/2015 21:49:39]"GET /robots.txt HTTP/1.0" 500 93022
+[08/Nov/2015 21:49:39]"GET /fe/hw1.html HTTP/1.0" 500 93168
+[08/Nov/2015 23:37:30]"GET /robots.txt HTTP/1.0" 500 93022
+[08/Nov/2015 23:37:30]"GET /fe/hw0.html HTTP/1.0" 500 93168
+[09/Nov/2015 02:03:42]"GET / HTTP/1.0" 500 76304
+[09/Nov/2015 05:40:51]"GET /robots.txt HTTP/1.0" 500 93037
+[09/Nov/2015 05:40:51]"GET /item/about.html HTTP/1.0" 500 93251
+[09/Nov/2015 06:24:48]"GET /testproxy.php HTTP/1.0" 500 93479
+[09/Nov/2015 07:18:40]"GET /testproxy.php HTTP/1.0" 500 93473
